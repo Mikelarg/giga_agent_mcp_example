@@ -12,6 +12,8 @@
 > Сейчас такого здесь нет
 
 ## Установка
+* `git clone git@github.com:Mikelarg/giga_agent_mcp_example.git`
+* `cd giga_agent_mcp_example`
 * `uv sync`
 * В корне проекта заполните файл `.env` с переменными окружения (пример возьмите из [.env.example](.env.example))
 * `uv run main.py`
